@@ -1,0 +1,272 @@
+log_id,timestamp,level,service,error_type,message,response_time_ms,response_time_anomaly,error_event,anomaly
+3,2026-06-19 13:04:09,ERROR,Database,PermissionError,Permission denied,82.66,False,True,True
+10,2026-05-01 02:10:45,CRITICAL,Storage,ConnectionError,Connection to service failed,24.19,False,True,True
+12,2026-02-06 21:10:40,ERROR,Authentication,ConnectionError,Connection to service failed,532.99,False,True,True
+18,2026-02-28 10:41:57,CRITICAL,Database,PermissionError,Permission denied,1098.14,False,True,True
+47,2026-08-08 00:34:09,CRITICAL,API,MemoryError,Memory usage exceeded threshold,692.07,False,True,True
+56,2026-04-24 16:27:05,ERROR,Authentication,TimeoutError,Request timed out,764.1,False,True,True
+64,2026-06-19 04:01:58,ERROR,Payment,NullPointerError,Null object encountered,1476.76,False,True,True
+68,2026-04-16 15:16:02,ERROR,Search,TimeoutError,Request timed out,72.62,False,True,True
+90,2026-07-25 18:30:11,ERROR,API,NullPointerError,Null object encountered,1172.92,False,True,True
+91,2026-05-25 15:46:16,ERROR,Search,ConnectionError,Connection to service failed,524.47,False,True,True
+94,2026-07-04 08:42:43,ERROR,Payment,NullPointerError,Null object encountered,573.78,False,True,True
+98,2026-06-01 21:49:14,ERROR,Storage,TimeoutError,Request timed out,1109.86,False,True,True
+103,2026-04-26 03:55:01,ERROR,Database,TimeoutError,Request timed out,758.98,False,True,True
+107,2026-08-28 22:18:26,ERROR,Payment,FileNotFoundError,Required file was not found,191.47,False,True,True
+112,2026-03-11 18:43:35,ERROR,Database,ConnectionError,Connection to service failed,940.03,False,True,True
+116,2026-02-20 14:29:45,ERROR,Storage,TimeoutError,Request timed out,296.56,False,True,True
+117,2026-08-02 12:58:31,ERROR,API,FileNotFoundError,Required file was not found,740.05,False,True,True
+120,2026-08-03 18:26:23,ERROR,Search,MemoryError,Memory usage exceeded threshold,743.01,False,True,True
+130,2026-04-21 13:44:26,ERROR,Storage,MemoryError,Memory usage exceeded threshold,406.27,False,True,True
+131,2026-03-14 06:00:45,ERROR,Authentication,MemoryError,Memory usage exceeded threshold,311.45,False,True,True
+133,2026-04-02 21:23:16,ERROR,Authentication,FileNotFoundError,Required file was not found,653.18,False,True,True
+134,2026-01-09 21:10:57,ERROR,Database,NullPointerError,Null object encountered,515.3,False,True,True
+136,2026-02-02 01:54:43,ERROR,Payment,FileNotFoundError,Required file was not found,909.45,False,True,True
+146,2026-05-25 09:43:28,ERROR,API,NullPointerError,Null object encountered,1472.58,False,True,True
+153,2026-04-19 03:59:25,ERROR,Authentication,FileNotFoundError,Required file was not found,1375.5,False,True,True
+158,2026-05-06 23:02:08,ERROR,Search,FileNotFoundError,Required file was not found,74.09,False,True,True
+163,2026-03-01 16:00:30,ERROR,Authentication,NullPointerError,Null object encountered,232.89,False,True,True
+167,2026-03-28 10:55:35,ERROR,API,ConnectionError,Connection to service failed,383.67,False,True,True
+170,2026-08-06 15:43:27,ERROR,Payment,TimeoutError,Request timed out,1250.57,False,True,True
+184,2026-07-19 06:08:49,ERROR,Storage,NullPointerError,Null object encountered,857.38,False,True,True
+185,2026-06-05 06:19:49,ERROR,Search,FileNotFoundError,Required file was not found,161.95,False,True,True
+190,2026-04-16 08:48:27,ERROR,API,ConnectionError,Connection to service failed,33.21,False,True,True
+194,2026-08-19 18:10:09,CRITICAL,API,ConnectionError,Connection to service failed,130.82,False,True,True
+196,2026-08-11 05:30:18,ERROR,API,TimeoutError,Request timed out,664.05,False,True,True
+197,2026-03-14 19:26:01,ERROR,Storage,FileNotFoundError,Required file was not found,417.47,False,True,True
+201,2026-04-01 20:39:21,ERROR,API,NullPointerError,Null object encountered,835.58,False,True,True
+202,2026-06-17 16:39:32,ERROR,API,ConnectionError,Connection to service failed,1184.55,False,True,True
+203,2026-08-01 11:46:39,ERROR,Storage,MemoryError,Memory usage exceeded threshold,1377.77,False,True,True
+206,2026-05-12 23:11:36,ERROR,Payment,MemoryError,Memory usage exceeded threshold,1363.52,False,True,True
+208,2026-06-15 07:59:32,ERROR,Search,FileNotFoundError,Required file was not found,1007.45,False,True,True
+212,2026-01-12 00:38:48,ERROR,Storage,PermissionError,Permission denied,632.92,False,True,True
+213,2026-06-04 19:33:18,CRITICAL,API,ConnectionError,Connection to service failed,72.09,False,True,True
+217,2026-02-19 06:34:59,ERROR,Search,FileNotFoundError,Required file was not found,388.76,False,True,True
+234,2026-03-02 00:12:29,CRITICAL,Search,MemoryError,Memory usage exceeded threshold,192.92,False,True,True
+236,2026-03-18 02:18:26,ERROR,Database,NullPointerError,Null object encountered,1120.03,False,True,True
+237,2026-08-21 01:48:41,ERROR,Payment,TimeoutError,Request timed out,835.26,False,True,True
+238,2026-02-10 02:47:03,ERROR,Payment,NullPointerError,Null object encountered,1055.63,False,True,True
+244,2026-08-21 18:26:43,ERROR,API,NullPointerError,Null object encountered,349.31,False,True,True
+248,2026-03-21 18:52:23,ERROR,API,TimeoutError,Request timed out,45.34,False,True,True
+255,2026-04-03 10:15:04,ERROR,Payment,PermissionError,Permission denied,1485.04,False,True,True
+271,2026-04-11 06:38:23,ERROR,Payment,ConnectionError,Connection to service failed,268.07,False,True,True
+273,2026-08-17 22:55:10,ERROR,Database,FileNotFoundError,Required file was not found,1230.77,False,True,True
+290,2026-01-28 17:41:02,ERROR,Search,FileNotFoundError,Required file was not found,377.51,False,True,True
+291,2026-07-28 23:51:18,ERROR,Authentication,TimeoutError,Request timed out,1439.57,False,True,True
+292,2026-06-08 21:08:17,ERROR,Authentication,NullPointerError,Null object encountered,1132.01,False,True,True
+294,2026-07-14 01:28:46,ERROR,Database,ConnectionError,Connection to service failed,413.16,False,True,True
+303,2026-07-03 20:54:10,ERROR,Storage,NullPointerError,Null object encountered,141.59,False,True,True
+305,2026-08-01 03:46:30,ERROR,Authentication,TimeoutError,Request timed out,396.75,False,True,True
+310,2026-05-07 15:47:30,ERROR,Search,NullPointerError,Null object encountered,839.25,False,True,True
+314,2026-01-18 20:24:08,ERROR,Payment,NullPointerError,Null object encountered,819.72,False,True,True
+322,2026-02-22 01:29:48,CRITICAL,Search,ConnectionError,Connection to service failed,521.18,False,True,True
+323,2026-03-13 17:48:41,ERROR,Search,NullPointerError,Null object encountered,1208.96,False,True,True
+326,2026-02-09 21:44:31,ERROR,Storage,ConnectionError,Connection to service failed,854.02,False,True,True
+328,2026-06-17 10:53:30,ERROR,Authentication,TimeoutError,Request timed out,941.68,False,True,True
+332,2026-02-23 11:13:04,ERROR,Authentication,FileNotFoundError,Required file was not found,1443.22,False,True,True
+335,2026-04-26 03:56:49,ERROR,Search,TimeoutError,Request timed out,1004.23,False,True,True
+343,2026-01-23 16:50:40,CRITICAL,API,ConnectionError,Connection to service failed,1135.81,False,True,True
+344,2026-08-24 21:03:24,ERROR,Database,FileNotFoundError,Required file was not found,198.45,False,True,True
+350,2026-03-12 06:40:54,ERROR,Authentication,NullPointerError,Null object encountered,134.85,False,True,True
+361,2026-05-24 16:27:50,ERROR,API,FileNotFoundError,Required file was not found,37.35,False,True,True
+365,2026-07-22 06:53:38,ERROR,Payment,NullPointerError,Null object encountered,144.68,False,True,True
+367,2026-05-13 02:29:55,ERROR,Search,NullPointerError,Null object encountered,131.04,False,True,True
+369,2026-07-06 16:34:55,CRITICAL,Storage,PermissionError,Permission denied,688.82,False,True,True
+385,2026-07-28 12:36:26,CRITICAL,Storage,PermissionError,Permission denied,954.19,False,True,True
+396,2026-01-20 23:45:34,ERROR,Payment,ConnectionError,Connection to service failed,964.82,False,True,True
+401,2026-08-21 07:56:25,ERROR,Payment,ConnectionError,Connection to service failed,322.52,False,True,True
+410,2026-07-01 18:42:21,ERROR,Payment,TimeoutError,Request timed out,236.59,False,True,True
+427,2026-06-15 22:46:54,ERROR,Database,ConnectionError,Connection to service failed,1097.33,False,True,True
+431,2026-06-19 23:23:23,ERROR,Database,MemoryError,Memory usage exceeded threshold,1471.92,False,True,True
+445,2026-01-20 23:30:37,ERROR,Database,FileNotFoundError,Required file was not found,983.81,False,True,True
+456,2026-05-18 22:38:01,ERROR,Search,NullPointerError,Null object encountered,202.65,False,True,True
+458,2026-04-17 22:33:23,ERROR,Search,PermissionError,Permission denied,1110.99,False,True,True
+460,2026-08-04 00:13:08,ERROR,Storage,MemoryError,Memory usage exceeded threshold,411.04,False,True,True
+466,2026-06-03 00:27:10,ERROR,Storage,NullPointerError,Null object encountered,659.52,False,True,True
+474,2026-02-02 10:26:34,ERROR,Database,MemoryError,Memory usage exceeded threshold,156.17,False,True,True
+477,2026-04-03 17:59:17,ERROR,API,PermissionError,Permission denied,1446.83,False,True,True
+480,2026-02-20 01:50:21,ERROR,Payment,MemoryError,Memory usage exceeded threshold,1403.03,False,True,True
+482,2026-06-07 20:36:06,ERROR,Storage,FileNotFoundError,Required file was not found,353.33,False,True,True
+485,2026-06-26 09:32:46,ERROR,Authentication,PermissionError,Permission denied,546.46,False,True,True
+487,2026-06-25 02:55:13,ERROR,Payment,MemoryError,Memory usage exceeded threshold,712.63,False,True,True
+489,2026-06-03 14:18:12,ERROR,Authentication,MemoryError,Memory usage exceeded threshold,127.78,False,True,True
+493,2026-07-26 02:41:52,ERROR,Payment,TimeoutError,Request timed out,612.72,False,True,True
+496,2026-06-16 10:19:15,ERROR,Payment,ConnectionError,Connection to service failed,952.94,False,True,True
+498,2026-08-13 10:10:30,CRITICAL,Storage,PermissionError,Permission denied,1055.73,False,True,True
+508,2026-02-13 21:08:28,ERROR,Payment,TimeoutError,Request timed out,386.41,False,True,True
+521,2026-04-08 08:43:00,CRITICAL,API,ConnectionError,Connection to service failed,27.32,False,True,True
+522,2026-02-26 17:45:08,ERROR,Authentication,NullPointerError,Null object encountered,83.95,False,True,True
+525,2026-04-09 06:18:03,ERROR,Database,TimeoutError,Request timed out,195.86,False,True,True
+528,2026-08-12 06:47:02,ERROR,API,NullPointerError,Null object encountered,704.1,False,True,True
+531,2026-06-05 11:33:49,ERROR,Search,ConnectionError,Connection to service failed,108.4,False,True,True
+532,2026-05-10 02:02:22,ERROR,Authentication,PermissionError,Permission denied,289.88,False,True,True
+536,2026-05-17 22:35:17,ERROR,Authentication,MemoryError,Memory usage exceeded threshold,1285.99,False,True,True
+541,2026-07-05 08:44:08,ERROR,Payment,PermissionError,Permission denied,417.78,False,True,True
+549,2026-02-21 05:45:56,CRITICAL,Payment,ConnectionError,Connection to service failed,759.39,False,True,True
+560,2026-05-14 21:12:20,ERROR,Payment,TimeoutError,Request timed out,895.74,False,True,True
+561,2026-02-17 12:25:25,ERROR,Search,TimeoutError,Request timed out,1216.43,False,True,True
+562,2026-06-18 23:24:20,CRITICAL,Payment,ConnectionError,Connection to service failed,640.62,False,True,True
+570,2026-08-16 13:48:08,CRITICAL,Payment,PermissionError,Permission denied,857.18,False,True,True
+574,2026-04-08 01:48:09,CRITICAL,Payment,PermissionError,Permission denied,1267.33,False,True,True
+577,2026-05-03 11:55:16,CRITICAL,Search,ConnectionError,Connection to service failed,1467.43,False,True,True
+579,2026-06-03 22:57:32,ERROR,Authentication,ConnectionError,Connection to service failed,1300.05,False,True,True
+590,2026-03-06 17:53:50,ERROR,Payment,FileNotFoundError,Required file was not found,383.69,False,True,True
+595,2026-07-12 07:59:05,CRITICAL,Storage,ConnectionError,Connection to service failed,1252.18,False,True,True
+598,2026-08-15 15:36:13,ERROR,Database,TimeoutError,Request timed out,232.68,False,True,True
+600,2026-04-14 12:25:26,ERROR,API,NullPointerError,Null object encountered,910.75,False,True,True
+609,2026-07-09 00:54:00,CRITICAL,API,ConnectionError,Connection to service failed,350.32,False,True,True
+622,2026-01-14 03:04:08,ERROR,Database,TimeoutError,Request timed out,880.83,False,True,True
+625,2026-06-25 00:34:58,CRITICAL,Authentication,MemoryError,Memory usage exceeded threshold,107.96,False,True,True
+626,2026-03-15 07:09:55,ERROR,Search,NullPointerError,Null object encountered,1263.78,False,True,True
+639,2026-02-21 05:37:00,ERROR,Payment,PermissionError,Permission denied,382.37,False,True,True
+642,2026-01-15 21:19:30,ERROR,Payment,PermissionError,Permission denied,1051.49,False,True,True
+655,2026-01-19 19:52:07,CRITICAL,Database,MemoryError,Memory usage exceeded threshold,563.32,False,True,True
+663,2026-03-23 14:06:55,ERROR,API,TimeoutError,Request timed out,713.2,False,True,True
+664,2026-06-01 06:30:17,ERROR,Authentication,MemoryError,Memory usage exceeded threshold,1475.53,False,True,True
+677,2026-02-12 00:25:21,ERROR,Storage,PermissionError,Permission denied,1432.87,False,True,True
+681,2026-07-22 00:15:44,CRITICAL,API,ConnectionError,Connection to service failed,720.17,False,True,True
+682,2026-06-18 06:45:17,CRITICAL,Storage,PermissionError,Permission denied,23.11,False,True,True
+685,2026-06-09 03:17:38,ERROR,API,TimeoutError,Request timed out,1401.37,False,True,True
+689,2026-07-22 13:09:06,ERROR,Storage,PermissionError,Permission denied,242.29,False,True,True
+698,2026-07-24 01:36:18,ERROR,Search,FileNotFoundError,Required file was not found,76.81,False,True,True
+703,2026-05-12 09:25:00,CRITICAL,API,ConnectionError,Connection to service failed,753.35,False,True,True
+708,2026-04-07 04:54:52,ERROR,Authentication,FileNotFoundError,Required file was not found,677.71,False,True,True
+711,2026-05-04 15:30:38,ERROR,Search,ConnectionError,Connection to service failed,1428.46,False,True,True
+713,2026-03-15 06:54:14,ERROR,Authentication,FileNotFoundError,Required file was not found,853.38,False,True,True
+716,2026-05-06 12:14:54,ERROR,Storage,TimeoutError,Request timed out,1259.57,False,True,True
+719,2026-05-06 22:59:29,ERROR,Search,TimeoutError,Request timed out,179.52,False,True,True
+723,2026-07-21 16:52:44,ERROR,Storage,PermissionError,Permission denied,1143.69,False,True,True
+726,2026-06-26 03:09:22,ERROR,Database,PermissionError,Permission denied,711.56,False,True,True
+732,2026-04-22 11:20:58,ERROR,Storage,MemoryError,Memory usage exceeded threshold,1460.91,False,True,True
+733,2026-04-04 19:49:56,ERROR,Payment,TimeoutError,Request timed out,685.16,False,True,True
+736,2026-04-25 13:47:52,ERROR,Payment,TimeoutError,Request timed out,553.99,False,True,True
+741,2026-07-10 20:59:30,ERROR,API,ConnectionError,Connection to service failed,610.03,False,True,True
+758,2026-07-10 03:03:20,ERROR,Payment,ConnectionError,Connection to service failed,481.95,False,True,True
+761,2026-01-24 10:29:55,ERROR,Database,ConnectionError,Connection to service failed,1178.01,False,True,True
+766,2026-03-22 04:52:36,CRITICAL,API,ConnectionError,Connection to service failed,1007.93,False,True,True
+770,2026-06-14 00:26:29,ERROR,Database,NullPointerError,Null object encountered,295.16,False,True,True
+781,2026-08-09 22:54:20,ERROR,Search,ConnectionError,Connection to service failed,1318.44,False,True,True
+784,2026-06-07 07:27:50,ERROR,Payment,ConnectionError,Connection to service failed,160.72,False,True,True
+789,2026-07-14 20:44:50,ERROR,Storage,MemoryError,Memory usage exceeded threshold,269.68,False,True,True
+799,2026-01-03 15:02:46,ERROR,Database,MemoryError,Memory usage exceeded threshold,657.48,False,True,True
+803,2026-05-16 02:31:18,ERROR,Payment,ConnectionError,Connection to service failed,254.68,False,True,True
+808,2026-01-23 20:49:22,CRITICAL,Search,ConnectionError,Connection to service failed,1229.81,False,True,True
+809,2026-05-25 23:10:17,ERROR,Payment,FileNotFoundError,Required file was not found,1315.02,False,True,True
+812,2026-08-04 22:45:33,ERROR,Storage,TimeoutError,Request timed out,451.95,False,True,True
+818,2026-07-01 10:30:17,ERROR,Authentication,ConnectionError,Connection to service failed,185.03,False,True,True
+824,2026-07-11 14:40:42,ERROR,Storage,PermissionError,Permission denied,290.7,False,True,True
+827,2026-07-28 02:54:54,ERROR,Database,FileNotFoundError,Required file was not found,1481.28,False,True,True
+835,2026-03-08 16:39:00,ERROR,API,MemoryError,Memory usage exceeded threshold,1148.3,False,True,True
+838,2026-08-14 16:19:25,ERROR,API,ConnectionError,Connection to service failed,1134.9,False,True,True
+839,2026-02-05 03:35:52,ERROR,Search,PermissionError,Permission denied,227.09,False,True,True
+843,2026-06-21 09:53:26,ERROR,Storage,ConnectionError,Connection to service failed,29.62,False,True,True
+850,2026-03-15 16:14:25,CRITICAL,Payment,PermissionError,Permission denied,510.75,False,True,True
+852,2026-05-07 04:35:13,ERROR,Search,ConnectionError,Connection to service failed,1453.37,False,True,True
+864,2026-01-05 04:46:22,ERROR,Authentication,NullPointerError,Null object encountered,490.87,False,True,True
+866,2026-04-01 06:18:43,ERROR,API,ConnectionError,Connection to service failed,736.79,False,True,True
+868,2026-03-07 12:16:17,CRITICAL,Storage,MemoryError,Memory usage exceeded threshold,343.77,False,True,True
+869,2026-02-06 14:22:30,ERROR,Payment,FileNotFoundError,Required file was not found,1323.08,False,True,True
+870,2026-06-11 23:17:52,ERROR,API,TimeoutError,Request timed out,1451.17,False,True,True
+872,2026-02-06 15:39:17,ERROR,Storage,ConnectionError,Connection to service failed,1429.05,False,True,True
+876,2026-01-28 16:39:23,ERROR,Database,FileNotFoundError,Required file was not found,964.15,False,True,True
+889,2026-06-19 17:14:40,ERROR,API,TimeoutError,Request timed out,147.11,False,True,True
+896,2026-05-08 07:44:33,ERROR,Database,FileNotFoundError,Required file was not found,1043.79,False,True,True
+903,2026-05-20 18:53:27,ERROR,Storage,MemoryError,Memory usage exceeded threshold,536.14,False,True,True
+914,2026-01-06 02:36:29,ERROR,API,PermissionError,Permission denied,1295.03,False,True,True
+931,2026-04-12 21:08:26,ERROR,Database,NullPointerError,Null object encountered,476.12,False,True,True
+934,2026-06-10 00:33:36,ERROR,Payment,MemoryError,Memory usage exceeded threshold,1114.69,False,True,True
+938,2026-03-18 09:00:45,ERROR,Authentication,NullPointerError,Null object encountered,719.93,False,True,True
+944,2026-04-27 05:15:03,ERROR,Database,ConnectionError,Connection to service failed,530.02,False,True,True
+946,2026-02-01 11:33:53,ERROR,Payment,FileNotFoundError,Required file was not found,1288.31,False,True,True
+951,2026-04-09 22:20:01,ERROR,Database,MemoryError,Memory usage exceeded threshold,660.87,False,True,True
+955,2026-06-21 08:57:22,ERROR,Authentication,TimeoutError,Request timed out,336.58,False,True,True
+957,2026-03-09 08:56:40,ERROR,Database,ConnectionError,Connection to service failed,1386.37,False,True,True
+961,2026-04-12 06:24:47,ERROR,API,MemoryError,Memory usage exceeded threshold,1059.02,False,True,True
+976,2026-06-13 18:47:44,ERROR,Database,MemoryError,Memory usage exceeded threshold,469.68,False,True,True
+984,2026-03-12 12:37:47,ERROR,API,TimeoutError,Request timed out,189.41,False,True,True
+1001,2026-01-21 22:41:25,ERROR,Authentication,ConnectionError,Connection to service failed,1157.17,False,True,True
+1009,2026-05-28 01:46:06,CRITICAL,API,MemoryError,Memory usage exceeded threshold,1365.81,False,True,True
+1011,2026-04-26 07:48:32,ERROR,Authentication,TimeoutError,Request timed out,679.44,False,True,True
+1019,2026-07-13 15:52:05,CRITICAL,Payment,PermissionError,Permission denied,1409.12,False,True,True
+1028,2026-02-23 18:09:54,ERROR,Storage,NullPointerError,Null object encountered,619.52,False,True,True
+1033,2026-02-13 16:44:27,ERROR,Search,NullPointerError,Null object encountered,493.92,False,True,True
+1036,2026-08-27 19:53:59,CRITICAL,Authentication,PermissionError,Permission denied,1472.39,False,True,True
+1044,2026-05-17 01:56:46,ERROR,API,NullPointerError,Null object encountered,34.53,False,True,True
+1049,2026-07-18 00:16:18,CRITICAL,Search,MemoryError,Memory usage exceeded threshold,751.01,False,True,True
+1054,2026-08-19 21:14:00,ERROR,Storage,TimeoutError,Request timed out,353.45,False,True,True
+1060,2026-08-03 15:40:35,ERROR,API,ConnectionError,Connection to service failed,1282.25,False,True,True
+1073,2026-03-28 00:23:59,ERROR,API,PermissionError,Permission denied,680.64,False,True,True
+1081,2026-01-28 00:37:12,ERROR,Payment,TimeoutError,Request timed out,858.06,False,True,True
+1086,2026-05-19 13:54:40,ERROR,Storage,TimeoutError,Request timed out,80.86,False,True,True
+1103,2026-03-16 22:26:18,ERROR,Authentication,NullPointerError,Null object encountered,551.6,False,True,True
+1110,2026-03-13 16:26:18,ERROR,Search,PermissionError,Permission denied,993.03,False,True,True
+1118,2026-05-15 12:01:22,CRITICAL,Storage,PermissionError,Permission denied,335.45,False,True,True
+1119,2026-07-09 17:47:50,ERROR,Storage,MemoryError,Memory usage exceeded threshold,209.63,False,True,True
+1120,2026-07-05 20:04:16,ERROR,Authentication,NullPointerError,Null object encountered,316.22,False,True,True
+1123,2026-02-12 14:19:37,ERROR,Search,FileNotFoundError,Required file was not found,282.54,False,True,True
+1124,2026-02-18 01:35:56,ERROR,Authentication,FileNotFoundError,Required file was not found,147.45,False,True,True
+1128,2026-08-26 21:27:31,ERROR,Database,ConnectionError,Connection to service failed,499.47,False,True,True
+1130,2026-04-15 04:40:16,ERROR,API,ConnectionError,Connection to service failed,1377.4,False,True,True
+1133,2026-02-25 23:11:56,CRITICAL,Payment,PermissionError,Permission denied,328.46,False,True,True
+1134,2026-08-18 07:18:35,ERROR,Authentication,FileNotFoundError,Required file was not found,143.01,False,True,True
+1136,2026-08-22 07:57:12,ERROR,Authentication,PermissionError,Permission denied,494.94,False,True,True
+1146,2026-04-17 19:45:48,ERROR,Search,ConnectionError,Connection to service failed,596.26,False,True,True
+1150,2026-01-16 20:06:37,CRITICAL,Storage,ConnectionError,Connection to service failed,1152.74,False,True,True
+1153,2026-04-19 10:39:13,ERROR,Payment,PermissionError,Permission denied,1161.88,False,True,True
+1169,2026-01-14 20:45:34,ERROR,Storage,MemoryError,Memory usage exceeded threshold,892.73,False,True,True
+1173,2026-07-27 17:14:58,ERROR,Search,FileNotFoundError,Required file was not found,1345.43,False,True,True
+1174,2026-05-02 10:06:58,ERROR,Storage,NullPointerError,Null object encountered,1319.1,False,True,True
+1175,2026-06-21 19:02:05,ERROR,Payment,MemoryError,Memory usage exceeded threshold,701.13,False,True,True
+1184,2026-04-22 10:21:13,ERROR,Database,FileNotFoundError,Required file was not found,1178.01,False,True,True
+1187,2026-05-10 09:02:40,ERROR,Payment,PermissionError,Permission denied,132.05,False,True,True
+1189,2026-07-27 05:00:54,ERROR,Database,ConnectionError,Connection to service failed,1148.82,False,True,True
+1202,2026-06-15 16:32:47,ERROR,Storage,NullPointerError,Null object encountered,211.8,False,True,True
+1205,2026-06-28 09:38:21,ERROR,Search,NullPointerError,Null object encountered,814.82,False,True,True
+1218,2026-08-03 00:29:54,ERROR,Database,PermissionError,Permission denied,517.53,False,True,True
+1224,2026-01-19 09:26:43,CRITICAL,Storage,PermissionError,Permission denied,219.35,False,True,True
+1226,2026-04-25 06:49:06,CRITICAL,Search,ConnectionError,Connection to service failed,1405.73,False,True,True
+1228,2026-01-22 08:00:53,ERROR,Authentication,FileNotFoundError,Required file was not found,886.59,False,True,True
+1231,2026-02-03 21:46:02,ERROR,Database,MemoryError,Memory usage exceeded threshold,577.31,False,True,True
+1237,2026-08-20 22:05:41,CRITICAL,API,MemoryError,Memory usage exceeded threshold,1488.95,False,True,True
+1241,2026-04-03 22:47:41,ERROR,API,NullPointerError,Null object encountered,777.84,False,True,True
+1242,2026-06-20 22:06:03,ERROR,Storage,TimeoutError,Request timed out,1125.45,False,True,True
+1243,2026-05-01 03:38:17,ERROR,Storage,FileNotFoundError,Required file was not found,106.63,False,True,True
+1252,2026-02-28 01:21:16,ERROR,API,MemoryError,Memory usage exceeded threshold,562.83,False,True,True
+1269,2026-01-22 13:00:51,ERROR,Authentication,TimeoutError,Request timed out,1430.41,False,True,True
+1273,2026-06-24 05:57:27,ERROR,Search,FileNotFoundError,Required file was not found,727.32,False,True,True
+1274,2026-08-27 07:37:54,CRITICAL,API,PermissionError,Permission denied,630.56,False,True,True
+1276,2026-08-27 00:13:04,ERROR,Search,NullPointerError,Null object encountered,1034.08,False,True,True
+1296,2026-06-17 05:17:46,ERROR,API,FileNotFoundError,Required file was not found,798.73,False,True,True
+1298,2026-03-22 21:56:49,ERROR,Search,ConnectionError,Connection to service failed,632.72,False,True,True
+1304,2026-05-20 10:43:39,ERROR,Authentication,TimeoutError,Request timed out,92.33,False,True,True
+1310,2026-03-09 06:19:53,ERROR,Payment,NullPointerError,Null object encountered,713.2,False,True,True
+1318,2026-04-05 17:53:12,ERROR,Search,TimeoutError,Request timed out,140.67,False,True,True
+1321,2026-06-07 18:24:31,ERROR,Database,NullPointerError,Null object encountered,557.85,False,True,True
+1327,2026-01-28 03:39:12,CRITICAL,Payment,PermissionError,Permission denied,523.85,False,True,True
+1341,2026-03-11 05:42:02,ERROR,Authentication,TimeoutError,Request timed out,544.7,False,True,True
+1347,2026-05-23 11:36:15,ERROR,API,NullPointerError,Null object encountered,838.0,False,True,True
+1348,2026-01-28 11:19:43,ERROR,Payment,TimeoutError,Request timed out,1158.12,False,True,True
+1351,2026-02-09 19:29:37,ERROR,Payment,NullPointerError,Null object encountered,1379.59,False,True,True
+1353,2026-01-03 03:19:52,ERROR,Authentication,PermissionError,Permission denied,426.56,False,True,True
+1359,2026-03-13 12:32:05,ERROR,Authentication,NullPointerError,Null object encountered,964.17,False,True,True
+1364,2026-03-26 17:00:51,ERROR,Authentication,FileNotFoundError,Required file was not found,430.86,False,True,True
+1374,2026-02-21 02:48:45,ERROR,API,TimeoutError,Request timed out,130.57,False,True,True
+1380,2026-06-24 11:37:27,ERROR,Search,MemoryError,Memory usage exceeded threshold,337.71,False,True,True
+1383,2026-08-23 05:40:18,ERROR,API,ConnectionError,Connection to service failed,1198.73,False,True,True
+1385,2026-05-27 15:18:14,ERROR,Authentication,ConnectionError,Connection to service failed,830.85,False,True,True
+1389,2026-06-04 20:58:26,ERROR,API,ConnectionError,Connection to service failed,146.71,False,True,True
+1393,2026-07-09 15:52:10,ERROR,Payment,ConnectionError,Connection to service failed,458.16,False,True,True
+1402,2026-07-13 23:15:58,ERROR,Storage,MemoryError,Memory usage exceeded threshold,1440.48,False,True,True
+1404,2026-02-08 14:01:10,ERROR,Database,PermissionError,Permission denied,742.73,False,True,True
+1413,2026-07-11 23:25:50,ERROR,Database,NullPointerError,Null object encountered,962.89,False,True,True
+1419,2026-03-25 16:48:00,ERROR,API,ConnectionError,Connection to service failed,1235.99,False,True,True
+1422,2026-06-11 10:42:59,ERROR,Search,FileNotFoundError,Required file was not found,157.62,False,True,True
+1424,2026-03-22 09:16:20,ERROR,Payment,PermissionError,Permission denied,632.98,False,True,True
+1428,2026-03-06 18:20:08,ERROR,API,TimeoutError,Request timed out,1425.11,False,True,True
+1429,2026-04-12 13:37:19,ERROR,Search,TimeoutError,Request timed out,1133.75,False,True,True
+1438,2026-04-20 21:41:58,CRITICAL,Search,ConnectionError,Connection to service failed,28.86,False,True,True
+1439,2026-04-15 09:26:59,ERROR,Search,NullPointerError,Null object encountered,722.19,False,True,True
+1458,2026-02-24 19:28:06,ERROR,Authentication,FileNotFoundError,Required file was not found,863.97,False,True,True
+1472,2026-06-24 13:42:52,CRITICAL,Storage,PermissionError,Permission denied,503.84,False,True,True
+1476,2026-04-25 05:41:13,CRITICAL,Authentication,PermissionError,Permission denied,1479.97,False,True,True
+1494,2026-04-16 13:25:25,ERROR,Search,NullPointerError,Null object encountered,70.08,False,True,True

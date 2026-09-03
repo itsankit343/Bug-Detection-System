@@ -1,67 +1,71 @@
-🐞 Bug Detection System
+# Bug Detection System — Python
 
-A Python-based Bug Detection System designed to analyze software bug data, identify patterns, and assist in detecting and classifying potential bugs using data analysis and machine learning techniques.
+A portfolio-ready Python project that processes system logs, detects anomalous events, identifies recurring software errors, and generates visual insights.
 
-📌 Project Overview
-
-The project focuses on analyzing bug-related data to understand common issues, identify important patterns, and build a basic predictive model for bug detection/classification.
-
-It demonstrates an end-to-end workflow including data preprocessing, exploratory data analysis (EDA), feature engineering, data visualization, and machine learning.
-
-🚀 Features
-
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Bug pattern and trend analysis
-- Feature engineering
-- Data visualization
-- Machine learning-based bug classification/prediction
-- Model evaluation
-
-🛠️ Technologies Used
+## Tech Stack
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
 
-🔄 Workflow
+## Project Structure
 
-Dataset
-   ↓
-Data Cleaning
-   ↓
-Data Preprocessing
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Model Training
-   ↓
-Model Evaluation
-   ↓
-Bug Detection / Classification
+```text
+bug_detection_system/
+├── data/
+│   └── system_logs.csv
+├── src/
+│   └── bug_detector.py
+├── outputs/
+├── requirements.txt
+└── README.md
+```
 
-📊 Key Learning Outcomes
+## How to Run
 
-Through this project, I gained practical experience in:
+### Windows
 
-- Handling and preprocessing real-world datasets
-- Performing EDA and extracting meaningful insights
-- Visualizing data using Python libraries
-- Preparing features for machine learning
-- Training and evaluating classification models
-- Understanding the complete ML workflow
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python src/bug_detector.py
+```
 
-▶️ How to Run
+### macOS/Linux
 
-1. Clone the repository.
-2. Install the required dependencies.
-3. Open the Jupyter Notebook.
-4. Run the cells sequentially.
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 src/bug_detector.py
+```
 
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+## What the Project Does
+
+1. Loads system logs from CSV.
+2. Cleans timestamps, numeric fields and duplicate log IDs.
+3. Identifies `ERROR` and `CRITICAL` events.
+4. Detects unusually high response times using a statistical threshold.
+5. Combines these signals into an anomaly flag.
+6. Finds recurring error types by service.
+7. Generates CSV reports and Matplotlib charts.
+
+## Outputs
+
+The script creates:
+
+- `detected_anomalies.csv`
+- `recurring_errors.csv`
+- `recurring_errors.png`
+- `anomalies_by_service.png`
+- `response_time_distribution.png`
+
+## Interview Explanation
+
+The project automates first-level log analysis. Instead of manually scanning thousands of logs, the script uses Pandas to clean and aggregate events, NumPy/statistical logic to flag unusually high response times, and Matplotlib to visualize recurring errors and anomaly patterns.
+
+## Note
+
+The included log data is synthetic and intended for portfolio/learning use.
